@@ -1,0 +1,17 @@
+{
+  "name": "anytest",
+  "version": "0.0.0",
+  "description": "Similar to my \"VincentGrenn/test\" repo, but this includes multiple projects.",
+  "main": "dist/src/Node/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node dist/src/Node/index.js"
+  },
+  "author": "VincentGrenn",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/typescript": "^2.0.0",
+    "typescript": "^5.9.2"
+  }
+}
